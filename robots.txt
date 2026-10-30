@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tieronepreconstruction.com/sitemap-index.xml

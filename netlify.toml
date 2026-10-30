@@ -1,0 +1,4 @@
+# Pre-built static site (Astro output) — Netlify publishes these files as-is.
+[build]
+  publish = "."
+  command = ""
